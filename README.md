@@ -1,4 +1,4 @@
-# Memoria-Dinámica
+# Memoria-Dinamica
 class memDinamica:
     def __init__(self):
         self.frutas = []
